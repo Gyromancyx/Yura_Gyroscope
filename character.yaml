@@ -1,0 +1,10 @@
+﻿name: Yura Sashoune _Gyroscope
+text_file_encoding: shift_jis
+image: yura_eng_vccv_icon.png
+portrait: yura_eng_vccv_half.png
+portrait_opacity: 0.5
+web: https://twitter.com/gyromancyx
+version: 1.0 Cz VCCV
+default_phonemizer: OpenUtau.Plugin.Builtin.EnglishVCCVPhonemizer
+voice: Gyromancy
+author: Gyromancy
